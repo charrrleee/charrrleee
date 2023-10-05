@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://charlenecheung.netlify.app/static/media/Charlene_Cheung_Resume.2959443914a52ec9253e.pdf](https://charlenecheung.netlify.app/static/media/Charlene_Cheung_Resume.2959443914a52ec9253e.pdf)
 
-- ⚡ Fun fact **1. I hate Leetcode but do love coding 2.I hate work with uncontrollable colleagues but do love talk co-workers.**
+- ⚡ Fun fact **1. I hate Leetcode but do love coding \n 2.I hate work with uncontrollable colleagues but do love talk co-workers.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
